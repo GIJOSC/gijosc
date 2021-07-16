@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gesiel Neves</h1>
 <h3 align="center">Desenvolvedor Mobile</h3>
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GIJOSC/Workspace/blob/main/LICENSE)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gijosc&label=Profile%20views&color=0e75b6&style=flat" alt="gijosc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gijosc" alt="gijosc" /></a> </p>
