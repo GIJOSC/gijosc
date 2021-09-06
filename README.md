@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gesiel Neves</h1>
-<h3 align="center">Desenvolvedor Mobile</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GIJOSC/Workspace/blob/main/LICENSE)
 
